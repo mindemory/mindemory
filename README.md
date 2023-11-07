@@ -7,7 +7,7 @@
 
 <h3> I’m currently working on **Understanding the role of primary visual cortex in visual working memory** </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mindemory&show_icons=true&locale=en&layout=compact" alt="mindemory" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mindemory&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mindemory" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindemory&show_icons=true&locale=en" alt="mindemory" /></p>
 
