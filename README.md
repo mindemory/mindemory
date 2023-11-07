@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindemory&show_icons=true&locale=en" alt="mindemory" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindemory&theme=tokynight" alt="mindemory" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindemory&theme=tokyonight" alt="mindemory" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
