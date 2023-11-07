@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrugank</h1>
-<h3 align="center">Grad student at NYU interested in distriputed representations in brain and life!</h3>
+<h3 align="center">Grad student at NYU interested in distributed representations in brain and life!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindemory&label=Profile%20views&color=0e75b6&style=flat" alt="mindemory" /> </p>
 
