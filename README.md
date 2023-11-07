@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_memory_guy" target="blank"><img src="https://img.shields.io/twitter/follow/the_memory_guy?logo=twitter&style=for-the-badge" alt="the_memory_guy" /></a> </p>
 
-- I’m currently working on **Understanding the role of primary visual cortex in visual working memory**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/the_memory_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_memory_guy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrugank-dake-71911113b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrugank-dake-71911113b" height="30" width="40" /></a>
-</p>
+<h3> I’m currently working on **Understanding the role of primary visual cortex in visual working memory** </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mindemory&show_icons=true&locale=en&layout=compact" alt="mindemory" /></p>
 
