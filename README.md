@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_memory_guy" target="blank"><img src="https://img.shields.io/twitter/follow/the_memory_guy?logo=twitter&style=for-the-badge" alt="the_memory_guy" /></a> </p>
 
-- 🔭 I’m currently working on **Role of primary visual cortex in visual working memory**
+- I’m currently working on **Understanding the role of primary visual cortex in visual working memory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
