@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/the_memory_guy" target="blank"><img src="https://img.shields.io/twitter/follow/the_memory_guy?logo=twitter&style=for-the-badge" alt="the_memory_guy" /></a> </p>
 
 <h3> I’m currently working on <b>Understanding the role of primary visual cortex in visual working memory</b> </h3>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mindemory&theme=transparent)
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mindemory&theme=tokynight" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mindemory&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mindemory" />
 
