@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I am Mrugank Dake</h1>
-<h3 align="center"> Grad student at NYU interested in understanding the functional relevance of distributed representations in the brain </h3>
+<h1 align="center">About Me</h1>
+<p align="left"> Hola! I am Mrugank Dake. I am a PhD student at NYU interested in understanding the functional relevance of distributed representations in the brain. </p>
+<p align="left"> I enjoy coding and data analysis and am excited to share with you the small but hopefully helpful projects and eager to learn new things from the community. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindemory&label=Profile%20views&color=0e75b6&style=flat" alt="mindemory" /> </p>
 
