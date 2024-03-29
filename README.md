@@ -3,7 +3,7 @@
 <p align="left"> I enjoy coding and data analysis and am excited to share with you the small but hopefully helpful projects and eager to learn new things from the community. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindemory&label=Profile%20views&color=0e75b6&style=flat" alt="mindemory" /> </p>
-
+![Visitor Count](https://profile-counter.glitch.me/mindemory/count.svg)
 <p align="left"> <a href="https://twitter.com/the_memory_guy" target="blank"><img src="https://img.shields.io/twitter/follow/the_memory_guy?logo=twitter&style=for-the-badge" alt="the_memory_guy" /></a> </p>
 
 <h3> I’m currently working on <b>Understanding the role of primary visual cortex in visual working memory</b> </h3>
